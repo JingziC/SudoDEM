@@ -7,3 +7,4 @@ sudodeminstall
 *.xz
 SudoDEMTools/*
 scripts/bzip*
+*.dat
