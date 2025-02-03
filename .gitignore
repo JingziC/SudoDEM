@@ -3,3 +3,7 @@
 build*
 sudodeminstall
 .github/workflows/buildtest.yml
+*.gz
+*.xz
+SudoDEMTools/*
+scripts/bzip*
